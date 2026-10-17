@@ -3,4 +3,3 @@
 #### This is a software technology studio from China, dedicated to writing cool programs and contributing to the development of the Chinese open source community.
 
 ### TECH OTAKUS DEBUG THE WORLD
-（改自米哈游）
